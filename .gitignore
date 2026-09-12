@@ -1,0 +1,14 @@
+Intermediate/
+Saved/
+DerivedDataCache/
+.vs/
+/Binaries/
+*.sln
+*.suo
+*.VC.db
+.env
+.env.*
+*.pem
+*.pfx
+/.upload-private/
+/TheLostPirateBKP.zip
